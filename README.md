@@ -1,4 +1,4 @@
 # Generative AI
 
 ## Resources
-- [Stable Diffusion](./docs/stable-diffusion.md)
+- [Stable Diffusion](./docs/resources.md#stable-diffusion)
